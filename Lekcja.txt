@@ -1,0 +1,22 @@
+					    Lekcja
+				Temat: Wskaźniki ciąg dalszy.
+^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^_^
+^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
+
+Zadanie:
+Napisz aplikacje ba konsole która, losuje 50 liczb określoną ilość liczb i przypisuje do dynamicznej tablicy. Wyznacz sumę liczb, średnią liczb.
+
+1zad. Podaj ile elementów losujemy: 10
+
+2zad. Wylosuje swój z zakresu od 0 do 100 do 10 liczb
+
+3zad. Oblicz sumę liczb i średnią liczb
+
+Losowanie (przykład):
+			51029710297 - 97 + 1
+			23157408271 - 71 + 1
+			09751268912 - 12 + 1
+			15896513549 - 49 + 1
+modulo % 100
+
+Zadanie Domowe - dokoncz zadanie z lekcji czyli 3zad. oraz napisz program na konsole który 		 dynamicnzie przydziela (losuje) z zakresu od 0 do 100 wartości znaków z 		 tablicy assci. Znaki przypisz do tablicy oraz je wyświetl.

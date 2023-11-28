@@ -1,0 +1,5 @@
+﻿  zadanie2.cpp
+C:\Users\Programista\Desktop\Bartek Janik\28.11.2023\zadanie2\zadanie2\zadanie2.cpp(7,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Programista\Desktop\Bartek Janik\28.11.2023\zadanie2\zadanie2\zadanie2.cpp(27,75): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\Bartek Janik\28.11.2023\zadanie2\zadanie2\zadanie2.cpp(27,75): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+  zadanie2.vcxproj -> C:\Users\Programista\Desktop\Bartek Janik\28.11.2023\zadanie2\x64\Debug\zadanie2.exe
